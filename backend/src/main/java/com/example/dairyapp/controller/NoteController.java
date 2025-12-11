@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import java.time.LocalDateTime;
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:5173", maxAge = 3600, allowCredentials = "true")
+@CrossOrigin(origins = "https://dairy-note-taking-app.vercel.app", maxAge = 3600, allowCredentials = "true")
 @RestController
 @RequestMapping("/api/notes")
 public class NoteController {
