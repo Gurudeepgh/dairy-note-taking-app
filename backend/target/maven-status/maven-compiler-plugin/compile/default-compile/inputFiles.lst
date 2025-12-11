@@ -1,0 +1,15 @@
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\config\WebSecurityConfig.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\model\User.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\security\jwt\AuthTokenFilter.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\controller\NoteController.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\payload\request\SignupRequest.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\payload\response\JwtResponse.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\security\jwt\JwtUtils.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\controller\AuthController.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\model\Note.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\security\jwt\AuthEntryPointJwt.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\repository\UserRepository.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\service\UserDetailsServiceImpl.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\repository\NoteRepository.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\DairyNoteTakingAppApplication.java
+C:\Users\gurudeep.halappa\deep_in_tech\anti_gravity_projs\dairy-note-taking-app\backend\src\main\java\com\example\dairyapp\payload\request\LoginRequest.java
