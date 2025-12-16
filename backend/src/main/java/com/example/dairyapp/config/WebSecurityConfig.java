@@ -68,7 +68,9 @@ public class WebSecurityConfig {
     @Bean
     public UrlBasedCorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration config = new CorsConfiguration();
-        config.setAllowedOrigins(List.of("http://localhost:5173")); // Vite default port
+        config.setAllowedOrigins(List.of("https://dairy-note-taking-app.vercel.app", "http://localhost:5173")); // Vite
+                                                                                                                // default
+                                                                                                                // port
         config.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS", "HEAD"));
         config.setAllowedHeaders(List.of("*"));
         config.setAllowCredentials(true);
