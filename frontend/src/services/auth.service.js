@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8080/api/auth/";
+const API_URL = "https://dairy-note-taking-app-1.onrender.com/api/auth/";
 
 const register = (username, password) => {
     return axios.post(API_URL + "register", {

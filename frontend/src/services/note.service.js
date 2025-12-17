@@ -1,7 +1,7 @@
 import axios from 'axios';
 import authHeader from './auth-header';
 
-const API_URL = 'http://localhost:8080/api/notes';
+const API_URL = 'https://dairy-note-taking-app-1.onrender.com/api/notes';
 
 const getAllNotes = () => {
     return axios.get(API_URL, { headers: authHeader() });
